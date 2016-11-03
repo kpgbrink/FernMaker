@@ -1,0 +1,15 @@
+C:\Users\Kristofer\Desktop\Fern\Fern\bin\Debug\Fern.exe.config
+C:\Users\Kristofer\Desktop\Fern\Fern\obj\Debug\Fern.csprojResolveAssemblyReference.cache
+C:\Users\Kristofer\Desktop\Fern\Fern\obj\Debug\MainWindow.baml
+C:\Users\Kristofer\Desktop\Fern\Fern\obj\Debug\MainWindow.g.cs
+C:\Users\Kristofer\Desktop\Fern\Fern\obj\Debug\App.g.cs
+C:\Users\Kristofer\Desktop\Fern\Fern\obj\Debug\Fern_MarkupCompile.cache
+C:\Users\Kristofer\Desktop\Fern\Fern\obj\Debug\Fern.g.resources
+C:\Users\Kristofer\Desktop\Fern\Fern\obj\Debug\Fern.Properties.Resources.resources
+C:\Users\Kristofer\Desktop\Fern\Fern\obj\Debug\Fern.csproj.GenerateResource.Cache
+C:\Users\Kristofer\Desktop\Fern\Fern\bin\Debug\Fern.exe
+C:\Users\Kristofer\Desktop\Fern\Fern\bin\Debug\Fern.pdb
+C:\Users\Kristofer\Desktop\Fern\Fern\obj\Debug\Fern.exe
+C:\Users\Kristofer\Desktop\Fern\Fern\obj\Debug\Fern.pdb
+C:\Users\Kristofer\Desktop\Fern\Fern\obj\Debug\Fern_Content.g.cs
+C:\Users\Kristofer\Desktop\Fern\Fern\bin\Debug\cool.png
